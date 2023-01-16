@@ -1,4 +1,5 @@
-# RockStarMTA
+# RockStarMTA - [DEPRECATED]
+# The RockStarMTA Scripts/Resources will be published separately on GitHub.
 A copy from RockStarMTA - MTA Server In IRAN ( Currently in Development progress ).
 
 ![Screenshot 1](/screenshots/SS1.png?raw=true "Account System Screenshot")
